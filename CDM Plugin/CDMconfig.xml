@@ -2,7 +2,7 @@
 <rate ops="40"/>
 <rateLvo ops="10"/>
 <expiredCtot time="25"/>
-<realMode mode="false"/>
+<realMode mode="true"/>
 <bmi mode="true"/>
 <pilotTobt mode="true"/>
 <autoAtot mode="false"/>
